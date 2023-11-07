@@ -1,0 +1,12 @@
+myLib.c:20:6:update7SEGLed	16	static
+myLib.c:25:6:updateLedBuffer	4	static
+myLib.c:33:8:enState	16	static
+myLib.c:41:8:clear7SEG	8	static
+myLib.c:51:8:display7SEG	16	static
+myLib.c:154:8:clearTrafficLight	8	static
+myLib.c:172:8:onRed1	8	static
+myLib.c:178:8:onAmber1	8	static
+myLib.c:184:8:onGreen1	8	static
+myLib.c:190:8:onRed2	8	static
+myLib.c:196:8:onAmber2	8	static
+myLib.c:202:8:onGreen2	8	static
